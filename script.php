@@ -1,8 +1,8 @@
 <?php
-$server = "serverip:serverport";
-$username = "serverusername";
-$password = "serverpassword";
-$dbname = "servername";
+$server = "dbip:serverport";
+$username = "dbusername";
+$password = "dbpassword";
+$dbname = "dbname";
 
 $templates = glob('/directory/to/templates/*.php');
 
