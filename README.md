@@ -8,7 +8,7 @@ This script copies the content of the page templates and places it in the "page"
 
 # How To Use
 1. Change the database variables at the top of the file. 
-2. Change the directory of the $templates variable to the directory of the page templates in question (leave the /*.php at the end). 
+2. Change the directory of the `$templates` variable to the directory of the page templates in question (leave the /*.php at the end). 
 3. Run the script. For Mac users, the easiest way to run the script is to open up Terminal/iTerm, go into the directory where the script is stored, and run `php script.php`. 
 
 # Notes
